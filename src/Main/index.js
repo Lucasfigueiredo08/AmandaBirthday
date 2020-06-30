@@ -11,7 +11,7 @@ export default class Main extends Component {
         return (
             <Container>
                 <ImageBirthDay src={image}/>
-                <Text>Baby, te desejo muitas alegrias, felicidades, saúde, que você possa alcançar tudo o que você deseja e que seja sempre alegre. Te gosto muito! <Strong> <3  </Strong></Text>
+                <Text>Baby, te desejo muitas alegrias, felicidades, saúde, que você possa alcançar tudo o que você deseja e que seja sempre alegre. Te gosto muito! <strong> S2  </strong></Text>
                 
                 <Galeria />
             </Container>

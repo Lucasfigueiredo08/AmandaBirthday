@@ -5,8 +5,8 @@ export const Container = styled.div`
  flex-flow: row wrap;
  /* flex-direction: row !important; */
  justify-content: start;
- height: 80%;
- width: 80%;
+ height: 500px;
+ width: 100%;
 
  align-items: center;
  margin-top: 50px;

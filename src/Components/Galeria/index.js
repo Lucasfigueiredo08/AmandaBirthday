@@ -27,9 +27,6 @@ function Galeria () {
                         source: '/images/5.jpg'
                     },
                     {
-                        source: '/images/6.jpg'
-                    },
-                    {
                         source: '/images/7.jpg'
                     },
                     {
@@ -48,16 +45,13 @@ function Galeria () {
                         source: '/images/12.jpg'
                     },
                     {
-                        source: '/images/13.jpg'
+                        source: '/images/13.jpeg'
                     },
                     {
                         source: '/images/14.jpg'
                     },
                     {
                         source: '/images/15.jpg'
-                    },
-                    {
-                        source: '/images/16.jpg'
                     },
                     {
                         source: '/images/17.jpg'
@@ -103,8 +97,7 @@ function Galeria () {
                     },
                     {
                         source: '/images/31.jpg'
-                    },
-
+                    }
                     ]}
                 />
             </Container>
