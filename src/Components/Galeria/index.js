@@ -73,7 +73,38 @@ function Galeria () {
                     },
                     {
                         source: '/images/21.jpg'
-                    }
+                    },
+                    {
+                        source: '/images/22.jpg'
+                    },
+                    {
+                        source: '/images/23.jpg'
+                    },
+                    {
+                        source: '/images/24.jpg'
+                    },
+                    {
+                        source: '/images/25.jpg'
+                    },
+                    {
+                        source: '/images/26.jpg'
+                    },
+                    {
+                        source: '/images/27.jpg'
+                    },
+                    {
+                        source: '/images/28.jpg'
+                    },
+                    {
+                        source: '/images/29.jpg'
+                    },
+                    {
+                        source: '/images/30.jpg'
+                    },
+                    {
+                        source: '/images/31.jpg'
+                    },
+
                     ]}
                 />
             </Container>
