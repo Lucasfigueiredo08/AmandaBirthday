@@ -17,6 +17,7 @@ export default class Main extends Component {
                 <ReactAudioPlayer
                     src={song}
                     autoPlay
+                    loop
                 />
                 <ImageBirthDay src={image}/>
                 <Text>Baby, te desejo muitas alegrias, felicidades, saúde, que você possa alcançar tudo o que você deseja e que seja sempre alegre. Te gosto muito!
