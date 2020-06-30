@@ -17,6 +17,7 @@ export default class Main extends Component {
                 <ReactAudioPlayer
                     src={song}
                     autoPlay
+                    controls
                     loop
                 />
                 <ImageBirthDay src={image}/>
